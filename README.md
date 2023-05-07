@@ -4,7 +4,7 @@ My name is Abdallah Essam. I am a Flutter developer currently working as a freel
 You can reach me out on:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdallah-essam-011061110)
-[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdullahessam21@gmail.com)
+[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdallahessam21@gmail.com)
 <!--
 **Abdallah-Essam-Abdallah/Abdallah-Essam-Abdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
